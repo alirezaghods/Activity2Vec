@@ -1,0 +1,9 @@
+tensorboard=2.0.0=pyhb230dea_0
+tensorflow-gpu=2.0.0=h0d30ee6_0
+numpy=1.17.2=py37haad9e8e_0
+matplotlib=3.1.2=py37_1
+pandas=0.25.3=py37he6710b0_0
+tsne=0.3.1=py37hf275ba9_0
+scikit-learn=0.17.1=np110py27_blas_openblas_202
+more-itertools=7.1.0=py_0
+matplotlib=1.5.3=np111py35_0
